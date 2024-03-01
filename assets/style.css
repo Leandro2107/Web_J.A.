@@ -1,7 +1,20 @@
-p{font-family: cursive; font-size: larger; color: rgb(0, 0, 0);}
-body{background-color: rgb(90, 209, 86);}
-h1{color: black; background-color: dimgrey;}
-ul{color: aliceblue;}
-a{color: aliceblue; font-size: medium;}
-h3{color: aliceblue; background-color: black;}
-img{border-radius: 6%;}
+body{
+    background-color: rgb(43, 201, 12);
+}
+
+.f-section__h1{
+    font-size: 80px;
+    color: #000000;
+    background-color: rgb(202, 124, 51);
+    display: inline-block;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 25px;
+    box-shadow:  2px 4px 30px 0 #000, 2px 4px 30px 0 #000;
+    margin-left: 650px
+};
+
+
+
+
+
